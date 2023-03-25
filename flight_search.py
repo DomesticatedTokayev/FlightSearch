@@ -5,7 +5,7 @@ import os
 FLIGHT_SEARCH_ENDPOINT = os.environ.get("Flight_search_endpoint")
 FLIGHT_LOCATE_ENDPOINT = os.environ.get("Flight_locate_endpoint") 
 
-KIWI_API_KEY = "3T6eGI3mD8RdWEX_0-cmOWdyqldErA1l"
+KIWI_API_KEY = "3T6dfgfmD8dxzfghhmOWdyqldfgErA1l"
 headers = {
     "apikey": KIWI_API_KEY
 }
